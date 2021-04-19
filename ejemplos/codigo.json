@@ -5,21 +5,21 @@
 	
 	"cards": {
 		"pony": {
-			"anon": {
-				"url": "https://img.booru.org/secretshipfic//images/1/4a87af84e2247c408819fc5dea3f0c666dbf2ee9.png",
-				"name": "anon",
-				"race": "pegasus",
-				"gender": "male",
-				"action": "replace",
+			"hechizera_lunar": {
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/HechizeraLuna.png?token=ATXSGH7JL677MGM6SMJGLULAPYKV4",
+				"name": "Hechizera Lunar",
+				"race": "alicorn",
+				"gender": "female",
+				"action": "",
 				"keywords": [
-					"Mane 6"
+					"princess","alicorn","magic","Luna"
 				]
 			},
 		
 
 		
 			"culomancia": {
-				"url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/da9fc11e-e40f-4e4d-a13b-bc311270f10a/dei04so-392fe880-5472-4707-b17b-3016b0184660.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZGE5ZmMxMWUtZTQwZi00ZTRkLWExM2ItYmMzMTEyNzBmMTBhXC9kZWkwNHNvLTM5MmZlODgwLTU0NzItNDcwNy1iMTdiLTMwMTZiMDE4NDY2MC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.jopfp83YHj0XaSxowsOImaE3_9Q11iT6dolSO8kLykE",
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/culomancia.png?token=ATXSGH7DNKYV5RM4JBYBV33APYKB2",
 				"name": "Culomancia",
 				"name": "culomancia",
 				"race": "alicorn",
@@ -70,13 +70,20 @@
 		"moon prism": {
 			"url": "https://img.booru.org/secretshipfic//images/1/64822a7414f4d5987683099bfeff12043d620c6a.png",
 			"action": ""
+		},
+
+		"ship soñada":
+		{
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ships/ship%20so%C3%B1ada.png?token=ATXSGH4AVLXISDELLXUC3FDAPYKFM",
+			"action": ""
 		}
+
 	},
 
 	"goal": {
-		"re herring": {
-			"url": "https://img.booru.org/secretshipfic//images/1/e966d11ba568a1ae3ccdc2bdf8029cd6b0282e61.png",
-			"points": "2"
+		"fuego amigo": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/goals/fuego%20amigo.png?token=ATXSGHZKJGTUAJ2FPR7XX7TAPYKHC",
+			"points": "-3"
 		},
 
 		"academy": {
