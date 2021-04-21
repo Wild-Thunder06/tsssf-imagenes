@@ -1,0 +1,173 @@
+{
+	"name": "Cartas Troll",
+	"format": "link:1",
+	"namespace": "authorName.packName",
+	
+	"cards": {
+		"pony": {
+			"hechizera_lunar": {
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/HechizeraLuna.png?token=ATXSGH7JL677MGM6SMJGLULAPYKV4",
+				"name": "Hechizera Lunar",
+				"race": "alicorn",
+				"gender": "female",
+				"action": "",
+				"keywords": [
+					"princess","alicorn","magic","Luna"
+				]
+			},
+		
+
+		
+			"culomancia": {
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/culomancia.png?token=ATXSGH7DNKYV5RM4JBYBV33APYKB2",
+				"name": "Culomancia",
+				"name": "culomancia",
+				"race": "alicorn",
+				"gender": "female",
+				"action": "replace",
+				"keywords": [
+					"Mane 6"
+				]
+			},
+
+			"araara": {
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/Araara.png",
+				"name": "araara",
+				"race": "alicorn",
+				"gender": "female",
+				"action": "Changeling(<type>)",
+				"keywords": [
+					"changeling","villain","queen","Luna"
+				]
+			},
+		
+
+		
+			"bestopony": {
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/Bestopony.png",
+				"name": "bestopony",
+				"race": "alicorn",
+				"gender": "female",
+				"action": "replace",
+				"keywords": [
+					"princess","luna","celestia","candance","alicorn"
+				]
+			},
+
+			"eldiamaslargo": {
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/eldiamaslargo.png",
+				"name": "eldiamaslargo",
+				"race": "alicorn",
+				"gender": "female",
+				"action": "replace",
+				"keywords": [
+					"princess","celestia","alicorn", "villain"
+				]
+			},
+		
+
+			"critico20": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/critico.png",
+			"name": "critico20",
+			"race": "unicorn",
+			"gender": "male",
+			"action": "draw",
+			"keywords": [
+				"unicorn","staff"
+			]
+		},
+
+		"pifia": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/pifia.png",
+			"name": "pifia",
+			"race": "unicorn",
+			"gender": "male",
+			"action": "draw",
+			"keywords": [
+				"unicorn","staff"
+			]
+			
+		},
+
+		"elmasguapo": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/elmasguapo.png",
+			"name": "elmasguapo",
+			"race": "unicorn",
+			"gender": "male",
+			"action": "",
+			"keywords": [
+				"unicorn","staff"
+			]
+			
+		},
+
+		"Toda la noche jugando": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/todalanochejugando.png",
+			"name": "Toda la noche jugando",
+			"race": "alicorn",
+			"gender": "female",
+			"action": "",
+			"keywords": [
+				"princess","luna","gamer","alicorn"
+			]
+			
+		}
+	},
+	"ship": {
+		"moon prism": {
+			"url": "https://img.booru.org/secretshipfic//images/1/64822a7414f4d5987683099bfeff12043d620c6a.png",
+			"action": ""
+		},
+
+		"nientussueo": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ships/nientussue.png",
+			"action": ""
+		},
+
+		"nosoyadorable": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ships/nosoyadorable.png",
+			"action": ""
+		},
+
+
+		"ship soñada":
+		{
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ships/ship%20so%C3%B1ada.png?token=ATXSGH4AVLXISDELLXUC3FDAPYKFM",
+			"action": ""
+		}
+
+	},
+
+	"goal": {
+		"fuego amigo": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/goals/fuego%20amigo.png?token=ATXSGHZKJGTUAJ2FPR7XX7TAPYKHC",
+			"points": "-3"
+		},
+
+		"parejaperfecta": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/goals/parejaperfecta.png",
+			"points": "3"
+		},
+
+		"wow": {
+			"url": "https://img.booru.org/secretshipfic//images/1/9586f5ec15b5105f519e5ca6965f6c0340d9893a.png",
+			"points": "1"
+		}
+
+
+	},
+
+	"start": {
+		"fausticorn": {
+			"url": "https://img.booru.org/secretshipfic//images/1/7b9a0eeb28df47aca0204d0c9e0faf37b873f3a6.png",
+			"name": "fausticorn",
+			"race": "alicorn",
+			"gender": "female",
+			"keywords": [
+				"fausticorn", "Twilight sparkle"
+			]
+		}
+	}
+
+}
+}
