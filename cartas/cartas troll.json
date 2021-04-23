@@ -35,7 +35,7 @@
 				"name": "araara",
 				"race": "alicorn",
 				"gender": "female",
-				"action": "Changeling(<type>)",
+				"action": "Changeling(<plushling>)",
 				"keywords": [
 					"changeling","villain","queen","Luna"
 				]
@@ -51,6 +51,55 @@
 				"action": "replace",
 				"keywords": [
 					"princess","luna","celestia","candance","alicorn"
+				]
+			},
+
+			"noeszebra": {
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/HechizeraLuna.png",
+				"name": "noeszebra",
+				"race": "earth",
+				"gender": "female",
+				"action": "",
+				"keywords": [
+					"Zebra","Zebrailco","zebrastico"
+				]
+			},
+		
+
+		
+			"Zabiduria": {
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/culomancia.png",
+				"name": "Zabiduria",
+				"name": "Zabiduria",
+				"race": "earth",
+				"gender": "female",
+				"action": "replace",
+				"keywords": [
+					"Zebra", "Zecora","Zabia"
+				]
+			},
+
+			"Zelebracion": {
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/Araara.png",
+				"name": "Zelebracion",
+				"race": "earth",
+				"gender": "female",
+				"action": "swap",
+				"keywords": [
+					"Zebra","Queen"
+				]
+			},
+		
+
+		
+			"puppetmaster": {
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/Bestopony.png",
+				"name": "puppetmaster",
+				"race": "earth",
+				"gender": "female",
+				"action": "replace",
+				"keywords": [
+					"Kirin"
 				]
 			},
 
@@ -149,6 +198,31 @@
 			"points": "4"
 		},
 
+		"belleza": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/fuego%20amigo.png",
+			"points": "-3"
+		},
+
+		"crossover": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/parejaperfecta.png",
+			"points": "4"
+		},
+
+		"inocencia": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/fuego%20amigo.png",
+			"points": "-3"
+		},
+
+		"padresdeAJ": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/parejaperfecta.png",
+			"points": "4"
+		},
+
+		"Racismo": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/parejaperfecta.png",
+			"points": "4"
+		},
+
 		"wow": {
 			"url": "https://img.booru.org/secretshipfic//images/1/9586f5ec15b5105f519e5ca6965f6c0340d9893a.png",
 			"points": "1"
@@ -158,13 +232,13 @@
 	},
 
 	"start": {
-		"fausticorn": {
+		"borracha": {
 			"url": "https://img.booru.org/secretshipfic//images/1/7b9a0eeb28df47aca0204d0c9e0faf37b873f3a6.png",
-			"name": "fausticorn",
-			"race": "alicorn",
+			"name": "borracha",
+			"race": "unicorn",
 			"gender": "female",
 			"keywords": [
-				"fausticorn", "Twilight sparkle"
+				"Poni Latino", "Mascota", "mancillable", "Diosa de PL"
 			]
 		}
 	}
