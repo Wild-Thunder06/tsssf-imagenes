@@ -6,7 +6,7 @@
 	"cards": {
 		"pony": {
 			"hechizera_lunar": {
-				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/HechizeraLuna.png?token=ATXSGH7JL677MGM6SMJGLULAPYKV4",
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/HechizeraLuna.png",
 				"name": "Hechizera Lunar",
 				"race": "alicorn",
 				"gender": "female",
@@ -19,7 +19,7 @@
 
 		
 			"culomancia": {
-				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/culomancia.png?token=ATXSGH7DNKYV5RM4JBYBV33APYKB2",
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/culomancia.png",
 				"name": "Culomancia",
 				"name": "culomancia",
 				"race": "alicorn",
@@ -31,7 +31,7 @@
 			},
 
 			"araara": {
-				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/Araara.png",
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/Araara.png",
 				"name": "araara",
 				"race": "alicorn",
 				"gender": "female",
@@ -44,7 +44,7 @@
 
 		
 			"bestopony": {
-				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/Bestopony.png",
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/Bestopony.png",
 				"name": "bestopony",
 				"race": "alicorn",
 				"gender": "female",
@@ -55,7 +55,7 @@
 			},
 
 			"eldiamaslargo": {
-				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/eldiamaslargo.png",
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/eldiamaslargo.png",
 				"name": "eldiamaslargo",
 				"race": "alicorn",
 				"gender": "female",
@@ -67,7 +67,7 @@
 		
 
 			"critico20": {
-			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/critico.png",
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/critico.png",
 			"name": "critico20",
 			"race": "unicorn",
 			"gender": "male",
@@ -78,7 +78,7 @@
 		},
 
 		"pifia": {
-			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/pifia.png",
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/pifia.png",
 			"name": "pifia",
 			"race": "unicorn",
 			"gender": "male",
@@ -90,7 +90,7 @@
 		},
 
 		"elmasguapo": {
-			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/elmasguapo.png",
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/elmasguapo.png",
 			"name": "elmasguapo",
 			"race": "unicorn",
 			"gender": "male",
@@ -102,7 +102,7 @@
 		},
 
 		"Toda la noche jugando": {
-			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ponis/todalanochejugando.png",
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/todalanochejugando.png",
 			"name": "Toda la noche jugando",
 			"race": "alicorn",
 			"gender": "female",
@@ -120,19 +120,19 @@
 		},
 
 		"nientussueo": {
-			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ships/nientussue.png",
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ships/nientussue.png",
 			"action": ""
 		},
 
 		"nosoyadorable": {
-			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ships/nosoyadorable.png",
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ships/nosoyadorable.png",
 			"action": ""
 		},
 
 
 		"ship soñada":
 		{
-			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/ships/ship%20so%C3%B1ada.png?token=ATXSGH4AVLXISDELLXUC3FDAPYKFM",
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ships/ship%20so%C3%B1ada.png",
 			"action": ""
 		}
 
@@ -140,13 +140,13 @@
 
 	"goal": {
 		"fuego amigo": {
-			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/goals/fuego%20amigo.png?token=ATXSGHZKJGTUAJ2FPR7XX7TAPYKHC",
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/fuego%20amigo.png",
 			"points": "-3"
 		},
 
 		"parejaperfecta": {
-			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/pony%20latino/goals/parejaperfecta.png",
-			"points": "3"
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/parejaperfecta.png",
+			"points": "4"
 		},
 
 		"wow": {
