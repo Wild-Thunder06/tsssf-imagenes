@@ -55,7 +55,7 @@
 			},
 
 			"noeszebra": {
-				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/HechizeraLuna.png",
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/noeszebra.png",
 				"name": "noeszebra",
 				"race": "earth",
 				"gender": "female",
@@ -68,7 +68,7 @@
 
 		
 			"Zabiduria": {
-				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/culomancia.png",
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/Zabiduria.png",
 				"name": "Zabiduria",
 				"name": "Zabiduria",
 				"race": "earth",
@@ -80,7 +80,7 @@
 			},
 
 			"Zelebracion": {
-				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/Araara.png",
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/Zelebracion.png",
 				"name": "Zelebracion",
 				"race": "earth",
 				"gender": "female",
@@ -93,7 +93,7 @@
 
 		
 			"puppetmaster": {
-				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/Bestopony.png",
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/puppetmaster.png",
 				"name": "puppetmaster",
 				"race": "earth",
 				"gender": "female",
@@ -195,32 +195,32 @@
 
 		"parejaperfecta": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/parejaperfecta.png",
-			"points": "4"
+			"points": "2"
 		},
 
 		"belleza": {
-			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/fuego%20amigo.png",
-			"points": "-3"
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/belleza.png",
+			"points": "1"
 		},
 
 		"crossover": {
-			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/parejaperfecta.png",
-			"points": "4"
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/crossover.png",
+			"points": "0"
 		},
 
 		"inocencia": {
-			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/fuego%20amigo.png",
-			"points": "-3"
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/inocencia.png",
+			"points": "2"
 		},
 
 		"padresdeAJ": {
-			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/parejaperfecta.png",
-			"points": "4"
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/padresdeAJ.png",
+			"points": "0"
 		},
 
 		"Racismo": {
-			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/parejaperfecta.png",
-			"points": "4"
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/Racismo.png",
+			"points": "-1"
 		},
 
 		"wow": {
@@ -233,7 +233,7 @@
 
 	"start": {
 		"borracha": {
-			"url": "https://img.booru.org/secretshipfic//images/1/7b9a0eeb28df47aca0204d0c9e0faf37b873f3a6.png",
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/start/borracha.png",
 			"name": "borracha",
 			"race": "unicorn",
 			"gender": "female",
