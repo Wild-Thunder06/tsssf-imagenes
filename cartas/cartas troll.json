@@ -35,7 +35,7 @@
 				"name": "araara",
 				"race": "alicorn",
 				"gender": "female",
-				"action": "Changeling(<plushling>)",
+				"action": "Changeling(plushling)",
 				"keywords": [
 					"changeling","villain","queen","Luna"
 				]
@@ -145,7 +145,7 @@
 			"gender": "male",
 			"action": "",
 			"keywords": [
-				"unicorn","staff"
+				"unicorn","staff","Wild Thunder"
 			]
 			
 		},
@@ -182,7 +182,7 @@
 		"ship soñada":
 		{
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ships/ship%20so%C3%B1ada.png",
-			"action": ""
+			"action": "addKeywords(Twilight Sparkle)"
 		}
 
 	},
@@ -190,16 +190,19 @@
 	"goal": {
 		"fuego amigo": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/fuego%20amigo.png",
-			"points": "-3"
+			"goalLogic": "ExistsPony(name=Twilight Sparkle, 1)",
+			"points": "-1"
 		},
 
 		"parejaperfecta": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/parejaperfecta.png",
+			"goalLogic": "ExistsShip(name=Wild Thunder, Select name=luna)",
 			"points": "2"
 		},
 
 		"belleza": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/belleza.png",
+			"goalLogic": "ExistsPony(Zebra in keywords, 2)",
 			"points": "1"
 		},
 
@@ -210,6 +213,7 @@
 
 		"inocencia": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/inocencia.png",
+			"goalLogic": "ExistsPonyShippedTo(staff in keywords, Select(mod in keywords, 2))",
 			"points": "2"
 		},
 
@@ -220,11 +224,13 @@
 
 		"Racismo": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/Racismo.png",
+			"goalLogic": "ExistsPony(Zebra in keywords, 1)",
 			"points": "-1"
 		},
 
 		"wow": {
 			"url": "https://img.booru.org/secretshipfic//images/1/9586f5ec15b5105f519e5ca6965f6c0340d9893a.png",
+			"goalLogic": "ExistsPony(name=Starlight Glimmer, 1)",
 			"points": "1"
 		}
 
@@ -236,6 +242,7 @@
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/start/borracha.png",
 			"name": "borracha",
 			"race": "unicorn",
+			"action": "addKeywords(staff)",
 			"gender": "female",
 			"keywords": [
 				"Poni Latino", "Mascota", "mancillable", "Diosa de PL"
