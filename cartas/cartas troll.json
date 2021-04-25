@@ -150,6 +150,30 @@
 			
 		},
 
+		"meganirik": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/meganirik.png",
+			"name": "meganirik",
+			"race": "unicorn",
+			"gender": "male",
+			"action": "clone",
+			"keywords": [
+				"kirin","nirik"
+			]
+			
+		},
+
+		"onixstorm": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/onixstorm.png",
+			"name": "onixstorm",
+			"race": "unicorn",
+			"gender": "male",
+			"action": "",
+			"keywords": [
+				"kirin","nirik","rol"
+			]
+			
+		},
+
 		"Toda la noche jugando": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/todalanochejugando.png",
 			"name": "Toda la noche jugando",
@@ -226,6 +250,26 @@
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/Racismo.png",
 			"goalLogic": "ExistsPony(Zebra in keywords, 1)",
 			"points": "-1"
+		},
+
+		"besokirin": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/besokirin.png",
+			"points": "1"
+		},
+
+		"delincuencia": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/delincuencia.png",
+			"points": "3"
+		},
+
+		"escanon": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/escanon.png",
+			"points": "2"
+		},
+
+		"especie": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/especie.png",
+			"points": "3"
 		},
 
 		"wow": {
