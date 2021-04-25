@@ -174,6 +174,18 @@
 			
 		},
 
+		"tama": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/tama.png",
+			"name": "tama",
+			"race": "earth",
+			"gender": "female",
+			"action": "",
+			"keywords": [
+				"Zebra","Pegasister","Dictadora"
+			]
+			
+		},
+
 		"Toda la noche jugando": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/todalanochejugando.png",
 			"name": "Toda la noche jugando",
