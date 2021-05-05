@@ -24,9 +24,9 @@
 				"name": "culomancia",
 				"race": "alicorn",
 				"gender": "female",
-				"action": "replace",
+				"action": "",
 				"keywords": [
-					"Mane 6"
+					"princess","alicorn","celestia"
 				]
 			},
 
@@ -174,16 +174,38 @@
 			
 		},
 
-		"tama": {
-			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/tama.png",
-			"name": "tama",
-			"race": "earth",
+		"Flash": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/Flash.png",
+			"name": "flash",
+			"race": "pegasus",
+			"gender": "male",
+			"action": "",
+			"keywords": [
+				"flash sentry"
+			]
+			
+		},
+
+		"burolestia": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/burolestia.png",
+			"name": "burolestia",
+			"race": "alicorn",
 			"gender": "female",
 			"action": "",
 			"keywords": [
-				"Zebra","Pegasister","Dictadora"
+				"princess","alicorn","celestia"
 			]
-			
+		},
+
+		"libros": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/libros.png",
+			"name": "libros",
+			"race": "alicorn",
+			"gender": "female",
+			"action": "",
+			"keywords": [
+				"princess","alicorn","twilight"
+			]
 		},
 
 		"Toda la noche jugando": {
@@ -227,7 +249,7 @@
 		"fuego amigo": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/fuego%20amigo.png",
 			"goalLogic": "ExistsPony(name=Twilight Sparkle, 1)",
-			"points": "-1"
+			"points": "1"
 		},
 
 		"parejaperfecta": {
@@ -261,7 +283,7 @@
 		"Racismo": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/Racismo.png",
 			"goalLogic": "ExistsPony(Zebra in keywords, 1)",
-			"points": "-1"
+			"points": "1"
 		},
 
 		"besokirin": {
@@ -282,6 +304,13 @@
 		"especie": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/especie.png",
 			"points": "3"
+		},
+
+		"twerpy": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/twerpy.png",
+			"goalLogic": "ExistsShip(name=twilight, Select name=derpy)",
+			"points": "1"
+
 		},
 
 		"wow": {
