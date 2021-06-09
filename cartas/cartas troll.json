@@ -208,6 +208,28 @@
 			]
 		},
 
+		"icekiss": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/icekiss.png",
+			"name": "icekiss",
+			"race": "earth",
+			"gender": "female",
+			"action": "interrupt",
+			"keywords": [
+				"princess","pony","peluda"
+			]
+		},
+
+		"paladinfurro": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/paladinfurro.png",
+			"name": "paladinfurro",
+			"race": "unicorn",
+			"gender": "female",
+			"action": "interrupt",
+			"keywords": [
+				"Rarity","mane6","furro"
+			]
+		},
+
 		"Toda la noche jugando": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/todalanochejugando.png",
 			"name": "Toda la noche jugando",
