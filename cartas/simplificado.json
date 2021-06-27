@@ -1,0 +1,55 @@
+{
+	"name": "Cartas Troll",
+	"format": "link:1",
+	"namespace": "authorName.packName",
+	
+	"cards": {
+		"pony": {
+			"hechizera_lunar": {
+				"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/HechizeraLuna.png", 
+				"name": "Hechizera Lunar", 
+				"race": "alicorn", 
+				"gender": "female", 
+				"action": "", 
+				"keywords": [
+					"princess","alicorn","magic","Luna" 
+				]
+			}
+
+			
+	},
+
+	"ship": {
+		"moon prism": {
+			"url": "https://i.postimg.cc/DZM68fLk/Lor-Dragon-Spike.png", 
+			"action": "" 
+		}
+
+		
+	},
+
+	"goal": {
+		"fuego amigo": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/fuego%20amigo.png", 
+			"goalLogic": "ExistsPony(name=Twilight Sparkle, 1)", 
+			"points": "1" 
+		}
+
+
+	},
+
+	"start": {
+		"borracha": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/start/borracha.png",
+			"name": "borracha", 
+			"race": "unicorn", 
+			"action": "addKeywords(staff)",  
+			"gender": "female",  
+			"keywords": [
+				"Poni Latino", "Mascota", "mancillable", "Diosa de PL" 
+			]
+		}
+	}
+
+}
+}
