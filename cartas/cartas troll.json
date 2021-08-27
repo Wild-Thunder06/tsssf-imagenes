@@ -246,7 +246,7 @@
 			"name": "ataque",
 			"race": "alicorn",
 			"gender": "female",
-			"action": "interrupt",
+			"action": "exchangeCardsBetweenHands",
 			"keywords": [
 				"candance","princess","flurry heart"
 			]
@@ -301,7 +301,7 @@
 			"name": "novo",
 			"race": "pegasus",
 			"gender": "female",
-			"action": "exchangeCardsBetweenHands",
+			"action": "interrupt",
 			"keywords": [
 				"novo","queen"
 			]
@@ -365,7 +365,7 @@
 
 		"parejaperfecta": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/parejaperfecta.png",
-			"goalLogic": "ExistsShip(name=Wild Thunder, Select name=luna)",
+			"goalLogic": "ExistsShip(name=elmasguapo, Select name=luna)",
 			"points": "2"
 		},
 
@@ -424,6 +424,18 @@
 
 		},
 
+		"piensa": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/piensa.png",
+			"points": "-3"
+
+		},
+
+		"lopeor": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/lopeor.png",
+			"goalLogic": "ExistsPony(name=Twilight Sparkle, 1)",
+			"points": "-3"
+		},
+
 		"wow": {
 			"url": "https://img.booru.org/secretshipfic//images/1/9586f5ec15b5105f519e5ca6965f6c0340d9893a.png",
 			"goalLogic": "ExistsPony(name=Starlight Glimmer, 1)",
@@ -442,6 +454,17 @@
 			"gender": "female",
 			"keywords": [
 				"Poni Latino", "Mascota", "mancillable", "Diosa de PL"
+			]
+		},
+
+		"Trinidad": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/start/trinidad.png",
+			"name": "Trinidad",
+			"race": "unicorn",
+			"action": "addKeywords(staff)",
+			"gender": "female",
+			"keywords": [
+				"Poni Latino", "Mascota", "nightmare", "staff"
 			]
 		}
 	}
