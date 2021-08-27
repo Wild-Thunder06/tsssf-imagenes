@@ -219,6 +219,95 @@
 			]
 		},
 
+		"Hatsune": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/Hatsune.png",
+			"name": "Hatsune",
+			"race": "earth",
+			"gender": "female",
+			"action": "exchangeCardsBetweenHands",
+			"keywords": [
+				
+			]
+		},
+
+		"Silverstream": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/Silverstream.png",
+			"name": "Silverstream",
+			"race": "pegasus",
+			"gender": "female",
+			"action": "interrupt",
+			"keywords": [
+				"hippogriff","new mane6","student"
+			]
+		},
+
+		"ataque": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/ataque%20sorpresa.png",
+			"name": "ataque",
+			"race": "alicorn",
+			"gender": "female",
+			"action": "interrupt",
+			"keywords": [
+				"candance","princess","flurry heart"
+			]
+		},
+
+		"cibershy": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/cibershy.png",
+			"name": "cibershy",
+			"race": "pegasus",
+			"gender": "female",
+			"action": "exchangeCardsBetweenHands",
+			"keywords": [
+				"fluttershy","mane6","implantes"
+			]
+		},
+
+		"comunista": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/comunista.png",
+			"name": "comunista",
+			"race": "unicorn",
+			"gender": "female",
+			"action": "",
+			"keywords": [
+				"starlight","villain"
+			]
+		},
+
+		"consejera": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/consejera.png",
+			"name": "consejera",
+			"race": "unicorn",
+			"gender": "female",
+			"action": "exchangeCardsBetweenHands",
+			"keywords": [
+				"starlight","exvillain", "student"
+			]
+		},
+
+		"flutthernun": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/flutthernun.png",
+			"name": "flutthernun",
+			"race": "pegasus",
+			"gender": "female",
+			"action": "exchangeCardsBetweenHands",
+			"keywords": [
+				"fluttershy","mane6"
+			]
+		},
+
+		"novo": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/novo.png",
+			"name": "novo",
+			"race": "pegasus",
+			"gender": "female",
+			"action": "exchangeCardsBetweenHands",
+			"keywords": [
+				"novo","queen"
+			]
+		},
+
+
 		"paladinfurro": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/paladinfurro.png",
 			"name": "paladinfurro",
@@ -271,7 +360,7 @@
 		"fuego amigo": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/fuego%20amigo.png",
 			"goalLogic": "ExistsPony(name=Twilight Sparkle, 1)",
-			"points": "1"
+			"points": "-3"
 		},
 
 		"parejaperfecta": {
@@ -288,7 +377,7 @@
 
 		"crossover": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/crossover.png",
-			"points": "0"
+			"points": "-1"
 		},
 
 		"inocencia": {
@@ -305,7 +394,7 @@
 		"Racismo": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/Racismo.png",
 			"goalLogic": "ExistsPony(Zebra in keywords, 1)",
-			"points": "1"
+			"points": "-1"
 		},
 
 		"besokirin": {
