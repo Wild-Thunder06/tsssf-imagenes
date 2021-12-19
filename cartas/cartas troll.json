@@ -433,7 +433,7 @@
 		"lopeor": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/goals/lopeor.png",
 			"goalLogic": "ExistsPony(name=Twilight Sparkle, 1)",
-			"points": "-3"
+			"points": "-5"
 		},
 
 		"wow": {
