@@ -319,6 +319,118 @@
 			]
 		},
 
+		"El_chad": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/El%20chad.png",
+			"name": "El_chad",
+			"race": "earth",
+			"gender": "male",
+			"action": "",
+			"keywords": [
+				"pony","g5"
+			]
+		},
+		
+		"Chad": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/chad.png",
+			"name": "Chad",
+			"race": "earth",
+			"gender": "male",
+			"action": "",
+			"keywords": [
+				"pony","g5"
+			]
+		},
+		
+		"Fake_rainbow": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/Fake%20rainbow.png",
+			"name": "Fake_rainbow",
+			"race": "pegasus",
+			"gender": "female",
+			"action": "",
+			"keywords": [
+				"pony","g5"
+			]
+		},
+		
+		"Imbatible": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/Imbatible.png",
+			"name": "Imbatible",
+			"race": "unicorn",
+			"gender": "male",
+			"action": "",
+			"keywords": [
+				"pony","g5"
+			]
+		},
+		
+		"Orgullo_terrestre": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/Orgullo%20terrestre.png",
+			"name": "Orgullo_terrestre",
+			"race": "earth",
+			"gender": "male",
+			"action": "",
+			"keywords": [
+				"pony","g5"
+			]
+		},
+		
+		"Sproutlicious": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/Sproutlicious.png",
+			"name": "icekiss",
+			"race": "earth",
+			"gender": "female",
+			"action": "",
+			"keywords": [
+				"pony","g5"
+			]
+		},
+		
+		"la_chikita": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/la%20chikita.png",
+			"name": "la_chikita",
+			"race": "pegasus",
+			"gender": "female",
+			"action": "",
+			"keywords": [
+				"pony","g5"
+			]
+		},
+		
+		"la_favorita": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/la%20favorita%20de%20los%20fans.png",
+			"name": "la_favorita",
+			"race": "pegasus",
+			"gender": "female",
+			"action": "",
+			"keywords": [
+				"pony","g5"
+			]
+		},
+		
+		"reinicio": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/reinicio.png",
+			"name": "icekiss",
+			"race": "earth",
+			"gender": "female",
+			"action": "",
+			"keywords": [
+				"pony","g5"
+			]
+		},
+		
+		"una_foto_mas": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/una%20foto%20mas.png",
+			"name": "una_foto_mas",
+			"race": "pegasus",
+			"gender": "female",
+			"action": "",
+			"keywords": [
+				"pony","g5"
+			]
+		},
+		
+		
+
 		"Toda la noche jugando": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ponis/todalanochejugando.png",
 			"name": "Toda la noche jugando",
@@ -347,6 +459,10 @@
 			"action": ""
 		},
 
+		"decepcion": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/ships/decepcion.png",
+			"action": ""
+		},
 
 		"ship soñada":
 		{
