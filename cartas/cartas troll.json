@@ -573,6 +573,17 @@
 			]
 		},
 
+		"Macguffin": {
+			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/start/Macguffin.png",
+			"name": "Macguffin",
+			"race": "unicorn",
+			"action": "Changeling(plushling)",
+			"gender": "female",
+			"keywords": [
+				""
+			]
+		},
+
 		"Trinidad": {
 			"url": "https://raw.githubusercontent.com/Wild-Thunder06/tsssf-imagenes/main/cartas/Cartas%20troll/start/trinidad.png",
 			"name": "Trinidad",
